@@ -1,20 +1,22 @@
 {
-    "0": [
-      "https://api.soundcloud.com/tracks/434370309/stream?secret_token=s-tj3IS&client_id=LBCcHmRB8XSStWL6wKH2HPACspQlXg2P",
-      "https://i1.sndcdn.com/avatars-000312484264-af28qp-t200x200.jpg",
-      "Perfect Saxophone",
-      "Simon More"
-      ],
-    "1": [
-      "https://api.soundcloud.com/tracks/402538329/stream?secret_token=s-tj3IS&client_id=LBCcHmRB8XSStWL6wKH2HPACspQlXg2P",
-      "https://i1.sndcdn.com/avatars-000344712337-f6po4d-t120x120.jpg",
-      "Simply",
-      "Kumbor"
-      ],
-    "2": [
-      "https://api.soundcloud.com/tracks/266891990/stream?secret_token=s-tj3IS&client_id=LBCcHmRB8XSStWL6wKH2HPACspQlXg2P",
-      "https://i1.sndcdn.com/artworks-000165346750-e36z3a-t500x500.jpg",
-      "Electro Monotony",
-      "Nights & Weekends"
+    "songs": [
+        {
+            "url": "https://api.soundcloud.com/tracks/434370309/stream?secret_token=s-tj3IS&client_id=LBCcHmRB8XSStWL6wKH2HPACspQlXg2P",
+            "image": "https://i1.sndcdn.com/avatars-000312484264-af28qp-t200x200.jpg",
+            "title": "Perfect Saxophone",
+            "artist": "Simon More"
+        },
+        {
+            "url": "https://api.soundcloud.com/tracks/402538329/stream?secret_token=s-tj3IS&client_id=LBCcHmRB8XSStWL6wKH2HPACspQlXg2P",
+            "image": "https://i1.sndcdn.com/avatars-000344712337-f6po4d-t120x120.jpg",
+            "title": "Simply",
+            "artist": "Kumbor"
+        },
+        {
+            "url": "https://api.soundcloud.com/tracks/266891990/stream?secret_token=s-tj3IS&client_id=LBCcHmRB8XSStWL6wKH2HPACspQlXg2P",
+            "image": "https://i1.sndcdn.com/artworks-000165346750-e36z3a-t500x500.jpg",
+            "title": "Electro Monotony",
+            "artist": "Nights & Weekends"
+        }
       ]
 }
