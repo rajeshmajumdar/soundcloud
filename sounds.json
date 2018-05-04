@@ -3,18 +3,18 @@
     "audioUrl" : "https://api.soundcloud.com/tracks/434370309/stream?secret_token=s-tj3IS&client_id=LBCcHmRB8XSStWL6wKH2HPACspQlXg2P",
     "albumArtUrl": "https://i1.sndcdn.com/avatars-000312484264-af28qp-t200x200.jpg",
     "songTitle": "Perfect Saxophone",
-    "artist": "Simon More",
+    "artist": "Simon More"
     ],
     [
     "audioUrl" : "https://api.soundcloud.com/tracks/402538329/stream?secret_token=s-tj3IS&client_id=LBCcHmRB8XSStWL6wKH2HPACspQlXg2P",
     "albumArtUrl": "https://i1.sndcdn.com/avatars-000344712337-f6po4d-t120x120.jpg",
     "songTitle": "Simply",
-    "artist": "Kumbor",
+    "artist": "Kumbor"
     ],
     [
     "audioUrl": "https://api.soundcloud.com/tracks/266891990/stream?secret_token=s-tj3IS&client_id=LBCcHmRB8XSStWL6wKH2HPACspQlXg2P",
     "albumArtUrl": "https://i1.sndcdn.com/artworks-000165346750-e36z3a-t500x500.jpg",
     "songTitle": "Electro Monotony",
     "artist": "Nights & Weekends"
-    ],
+    ]
 }
